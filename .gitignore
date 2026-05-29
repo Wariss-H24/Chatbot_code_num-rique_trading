@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+.log
+.env
+base_allianz/
+dist/
+build/
